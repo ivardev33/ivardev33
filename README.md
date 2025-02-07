@@ -14,7 +14,7 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 ### **Backend:**
 
 - 🧩 **Spring Boot** (Java)
-- 🐍 **Django **(Python)
+- 🐍 **Django**(Python)
 - 🔗 Integración de APIs RESTful
 
 ### **Bases de Datos:**
