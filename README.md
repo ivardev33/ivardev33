@@ -8,14 +8,19 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 
 ### **Frontend:**
 - 🌐 **HTML, CSS**
-- 📱 **Kotlin y xml** (Android)
+- 📱 **Kotlin y xml (Android)**
 - 🎨 Diseño Responsive y UX/UI
 
 ### **Backend:**
 
 - 🧩 **Spring Boot** (Java)
-- 🐍 **Django**(Python)
+- 🐍 **Django** (Python)
 - 🔗 Integración de APIs RESTful
+
+### **Lenguajes de Programación:**
+- ☕ **Java**
+- 💻 **C#**
+- 🐍 **Python**
 
 ### **Bases de Datos:**
 - 📊 **SQLite (APIs nativas y Room)**
